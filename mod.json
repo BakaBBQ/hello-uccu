@@ -1,0 +1,8 @@
+{
+  "name": "hello-uccu",
+  "version": "0.1.0",
+  "description": "Displays a hello world message to the console",
+  "dependencies": {},
+  "index": "index.js",
+  "author": "BakaBBQ"
+}
